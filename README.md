@@ -19,3 +19,7 @@ How to dowload and start SN-Loading :
 ``start SN-LoadScreen``
 
 4- Assurez-vous qu'il sois bien start dans le cas contraire il ne marcheras pas.
+
+
+https://cdn.discordapp.com/attachments/1017312254267494402/1017926389221044224/unknown.png
+https://cdn.discordapp.com/attachments/1017312254267494402/1017939474484834304/unknown.png
