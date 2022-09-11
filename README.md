@@ -1,4 +1,4 @@
-# SN-Login
+# SN-login
 Loading-Screen assez basique.
 
 Voici un loading-screen sur lequel j'ai dev vous pouvez y changer la musique, le background et le logo. 
@@ -8,15 +8,15 @@ Sur ce qu'il y a d'intégrer avec il y'a l'affichage du pseudo steam du joueur q
 
 How to dowload and start SN-Loading :
 
-1- Dowload SN-Login
+1- Dowload SN-login
 
 2- In your server.cfg copy :
 
-``ensure SN-Login``
+``ensure SN-login``
 
 3- Refresh in CMD and write :
 
-``start SN-Login``
+``start SN-login``
 
 4- Assurez-vous qu'il sois bien start dans le cas contraire il ne marcheras pas.
 
