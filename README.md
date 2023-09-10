@@ -17,8 +17,10 @@ How to dowload and start SN-Loading :
 3- Refresh in CMD and write :
 
 ``start SN-login``
+Or
+Reboot 
 
-4- Assurez-vous qu'il sois bien start dans le cas contraire il ne marcheras pas.
+4- Make sure it is started, otherwise it will not work..
 
 
 https://cdn.discordapp.com/attachments/1017312254267494402/1017926389221044224/unknown.png
